@@ -68,8 +68,10 @@ Locais com maior número de entregas
 
 ## 📈 Visualizações
 
-Neste projeto, eu utilizo visualizações para tornar os dados e os insights mais acessíveis e compreensíveis. Algumas das visualizações incluídas são:
+Neste projeto, eu utilizo visualizações gráficas para tornar os dados e os insights mais acessíveis e compreensíveis. Algumas das visualizações incluídas são:
 
-Gráficos de barras para vendas por segmentos de produtos
-Gráficos de dispersão para analisar a variação de custos de entrega
-Mapas para mostrar a distribuição geográfica das entregas
+• Cartões com valores totais de vendas e de produtos vendidos;
+
+• Gráficos de barras para vendas por segmentos de produtos e métricas de entregas;
+
+•Gráficos de rosca, mostrando distribuição de vendas por produtos e segmentação de clientes.
