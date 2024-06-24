@@ -1,6 +1,8 @@
 
 ## Análise da Cadeia de Suprimentos 📦
 
+### Mais detalhes sobre este projeto podem ser encontrados aqui: [medium](https://medium.com/@rodrigoaislaan/explorando-e-analisando-uma-base-de-dados-de-supply-chain-utilizando-python-2cdaeb126145)
+
 ### 📝 Visão Geral do Projeto
 
 Neste projeto, realizo a análise exploratória de uma base de dados que trata de uma cadeia de suprimentos. Utilizo a linguagem Python para executar essa análise e extrair insights valiosos sobre diferentes aspectos da cadeia de suprimentos.
